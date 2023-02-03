@@ -1,0 +1,32 @@
+1. Guido Van Rossum
+
+2. Object oriented programmings(oops),structured and functonalal programmings
+
+3. Yes
+
+4. .py
+
+5. Both
+
+6. Conditional statement ,Loop, etc
+
+7. #
+
+8. sys.version
+
+9. lambda
+
+10. Preferred Installer Program
+
+
+11. Print(), type(), input(), etc
+
+12. It can be of any length
+
+13. Number of libraries, Easy to use, less code required, etc
+
+14. With the help of data structure
+
+15. Visit the webpage python .org , download the latest version, after download right click on icon and open the location and change as you which but its        default location on local disk 'c'
+
+16. Yes
